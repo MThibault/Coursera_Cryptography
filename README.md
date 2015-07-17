@@ -1,2 +1,2 @@
-# Coursera_Cryptography
+# Coursera Cryptography
 Code for Coursera Cryptography Assignment
