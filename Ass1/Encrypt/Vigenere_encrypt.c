@@ -7,7 +7,7 @@ int main() {
 	unsigned char	ch;
 	FILE		*fpIn, *fpOut;
 	int		i	= 0;
-	unsigned char	key[KEY_LENGTH]	= {0xA1, 0x2F}; // Of course, I did not use the all-0s key to encrypt
+	unsigned char	key[KEY_LENGTH]	= {0xA1, 0x2F}; // Exammple key to encrypt
 
 	fpIn	= fopen("ptext.txt", "r");
 	fpOut	= fopen("ctext.txt", "w");
